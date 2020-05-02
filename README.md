@@ -1,2 +1,5 @@
-# js-beer-generator
-A random beer generator built using vanilla JS
+# js-beer generator
+A vanilla JS random beer generator
+
+# Site:
+https://js-beer-generator.netlify.app/
